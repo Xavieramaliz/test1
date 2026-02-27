@@ -1,2 +1,3 @@
 Autor: Xavi
 desarrollo XAL
+texto para la parte 3 Simulación conflictos
