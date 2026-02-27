@@ -1,3 +1,4 @@
 Autor: Xavi
 desarrollo XAL
 texto para la parte 3 Simulación conflictos
+texto para la rama desXAL parte 3 conflictos
