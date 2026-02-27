@@ -1,2 +1,3 @@
 Autor: Xavi
 desarrollo XAL
+texto para la rama desXAL parte 3 conflictos
